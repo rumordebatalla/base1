@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Export serverType="8c91a03d-f9b4-46c0-a305-b5dcc79ff907">
+  <Server name="sistemas-013\mssmlbiz" description="Instancia local: 'sistemas-013\mssmlbiz'">
+    <ConnectionInformation>
+      <ServerType>8c91a03d-f9b4-46c0-a305-b5dcc79ff907</ServerType>
+      <ServerName>sistemas-013\mssmlbiz</ServerName>
+      <AuthenticationType>0</AuthenticationType>
+      <UserName />
+      <Password />
+      <AdvancedOptions />
+    </ConnectionInformation>
+  </Server>
+</Export>
